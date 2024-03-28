@@ -1,6 +1,7 @@
 ## Corona Mnagemaent System for HMO
 
-**Description**
+**Description:**
+
 An easy to use system for managing patients in a Health Maintenance Organization (HMO), allowing you to:  
 
  - Add, manage and update information about patients and their corona infection and vaccination
