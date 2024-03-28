@@ -44,9 +44,6 @@ git clone https://github.com/Rivi1473/ATIDA.git
   Make sure you have .NET Core SDK 6.0 installed.
 
 
+  ![צילום מסך 2024-03-28 164531](https://github.com/Rivi1473/ATIDA/assets/144923864/08b0ed67-3d64-499a-80e8-cece09daee64)
 
-[
-![Product Name Screen Shot](https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png)]
-
-  
 
