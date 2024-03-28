@@ -21,7 +21,7 @@ An easy to use system for managing patients in a Health Maintenance Organization
 -   Presents a summary view of the COVID-19 situation.
 
 **System Specification:**
--   The method of calling between the different API services and a schematic view of the information in the DATABASE are located in the README.md file.
+-   The method of calling between the different API services and a schematic view of the information in the DATABASE are located in the ArchitecturalSpecification.docx file.
 
 **Technologies:**
 -   Server side: C#, SQL Server, Entity Framework
