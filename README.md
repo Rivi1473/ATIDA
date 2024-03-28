@@ -47,22 +47,22 @@ git clone https://github.com/Rivi1473/ATIDA.git
 
 **User instructions:**
 
-  The main page of the website shows the personal details of the patients
+  The main page of the website shows the personal details of the patients:
 
   ![צילום מסך 2024-03-28 164531](https://github.com/Rivi1473/ATIDA/assets/144923864/08b0ed67-3d64-499a-80e8-cece09daee64)
 
-By clicking on the corona button, the patient's corona information will be displayed
+By clicking on the corona button, the patient's corona information will be displayed:
 
 ![צילום מסך 2024-03-28 164557](https://github.com/Rivi1473/ATIDA/assets/144923864/8366f521-74e7-4acb-aee6-c85419815a6d)
 
 By clicking on the edit button, the patient's corona information will be displayed with an editing option.
 
-Clicking the add button will open a page with an add with the option to upload a photo
+Clicking the add button will open a page with an add with the option to upload a photo:
 
 ![__לכידה](https://github.com/Rivi1473/ATIDA/assets/144923864/b70bc1e5-94d8-455a-a75d-2ac033570d10)
 
 
-By clicking on the Corona Summary button, a page will open with a total display of the number of patients and the number of those vaccinated
+By clicking on the Corona Summary button, a page will open with a total display of the number of patients and the number of those vaccinated:
 
 ![צילום מסך 2024-03-28 164545](https://github.com/Rivi1473/ATIDA/assets/144923864/fe07dbab-0fe4-428a-a2fa-cda302d03671)
 
