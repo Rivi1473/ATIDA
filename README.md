@@ -56,6 +56,7 @@ By clicking on the corona button, the patient's corona information will be displ
 ![צילום מסך 2024-03-28 164557](https://github.com/Rivi1473/ATIDA/assets/144923864/8366f521-74e7-4acb-aee6-c85419815a6d)
 
 By clicking on the edit button, the patient's corona information will be displayed with an editing option.
+
 Clicking the add button will open a page with an add with the option to upload a photo
 
 ![__לכידה](https://github.com/Rivi1473/ATIDA/assets/144923864/b70bc1e5-94d8-455a-a75d-2ac033570d10)
