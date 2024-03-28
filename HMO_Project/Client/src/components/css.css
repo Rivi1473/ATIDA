@@ -1,0 +1,30 @@
+.grid{
+    display: grid;
+    margin: 0 auto;
+    width: 90%;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr ;
+    grid-column-gap:50px;
+    grid-row-gap:20px
+}
+form td,form tr,.table tr,.table td{
+    border: #004AAD solid 2px;
+  }
+h1,h2,h3 {
+    color: #004AAD;
+
+  }
+
+.red{
+        color: #e6001a;
+
+}
+
+.grid2{
+    display: grid;
+    margin: 0 auto;
+    width: 80%;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-column-gap:50px;
+    grid-row-gap:20px
+
+}
